@@ -10,3 +10,6 @@
 
 ## HACKTOBERFEST2022
 Go over to [Issue #4](https://github.com/rv2442/rv2442.github.io/issues/4)
+
+#### Rules
+No abusive langauge
