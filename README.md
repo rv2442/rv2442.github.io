@@ -1,8 +1,14 @@
 # MY PORTFOLIO
 
-[![Portfolio](https://user-images.githubusercontent.com/69571769/199579737-c783727b-175f-4a81-9836-79f8a9249779.png)](https://www.rahulvijan.tech)
-
+<!-- [![Portfolio](https://github.com/rv2442/rv2442.github.io/blob/main/portfoliogif.gif)](https://www.rahulvijan.tech) -->
 <div align="center">
+<table>
+  <tr>
+    <td width="50%"><a href="https://www.rahulvijan.tech"><img width="100%" src="https://github.com/rv2442/rv2442.github.io/blob/main/portfoliogif.gif"></a><br><sup><strong>Website:</strong> My Portfolio</sup>
+ </tr>
+</table>
+
+
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/rv2442/rv2442.github.io?color=yellow)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 </div>
