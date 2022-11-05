@@ -36,6 +36,8 @@
     </tbody>
 </table>
 
+[![@rv2442's Holopin board](https://holopin.me/rv2442)](https://holopin.io/@rv2442)
+
 ## References
  <footer class="container">
         <div class="copyright">
@@ -45,10 +47,12 @@
 
 
 
-
+<!--
 ## HACKTOBERFEST2022
 Go over to [Issue #4](https://github.com/rv2442/rv2442.github.io/issues/4)
 
 #### Rules
 No abusive langauge
 No PR/MR Spams (dont PR for 1 character each, pull requests are accepted on files)
+-->
+
