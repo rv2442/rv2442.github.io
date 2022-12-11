@@ -26,7 +26,7 @@
      </thead>
     <tbody>
          <tr>
-            <td><a href="https://github.com/19sajib/JS-Project-Vault"</a>Project</td>
+            <td><a href="https://github.com/rv2442/rv2442.github.io"</a>Project</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/rv2442/rv2442.github.io?style=flat&logo=github"/></td>
              <td><img alt="Forks" src="https://img.shields.io/github/forks/rv2442/rv2442.github.io?style=flat&logo=github"/></td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/rv2442/rv2442.github.io?style=flat&logo=github"/></td>
