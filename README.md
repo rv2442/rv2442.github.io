@@ -42,7 +42,7 @@
 ## References
  <footer class="container">
         <div class="copyright">
-            Template by <a href="https://networkchuck.com/" target="_blank" rel="noopener noreferrer">NetworkChuck</a>
+            Template by <a href="https://networkchuck.com/" target="_blank" rel="noopener noreferrer">Network Chuck</a>
         </div>
     </footer>
 
